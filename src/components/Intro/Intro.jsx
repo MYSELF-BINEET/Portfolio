@@ -30,7 +30,7 @@ function Intro() {
                 <span>Bineet Pradhan</span>
                 <span>Full Stack Developer with high level of expreience in web designing and development, producting the Quality work</span>
             </div>
-            <button className="button i-button">Hire Me</button>
+            {/* <button className="button i-button">Hire Me</button> */}
             <div className="i-icons">
              <a href="https://github.com/MYSELF-BINEET" target='_blanck' > <img src={Github} alt="GitHub" /></a>
              <a href='https://www.linkedin.com/in/bineet-pradhan-2382aa258/' target='_black'> <img src={Linkdin} alt="LinkedIn"/></a>
