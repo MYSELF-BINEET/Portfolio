@@ -22,7 +22,7 @@ function Service() {
             <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
             <span>Services</span>
             <span>Learning. Growing. Blooming✨ | Passionate developer with a love for  <br /> problem-solving , efficient and creative thinking 🔥💫</span>
-            <a href="../../../public/RESUME.pdf" download><button className="button s-button">Download CV</button></a>
+            <a href="" download="./RESUME.pdf"><button className="button s-button">Download CV</button></a>
             <div className="blur s-blur1" style={{background:'#ABF1FF94'}}></div>
             <div className="blur s-blur" style={{background:"#ABF1FF94"}}></div>
         </div>

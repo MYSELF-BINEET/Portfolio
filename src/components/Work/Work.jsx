@@ -20,7 +20,7 @@ function Work() {
             <span style={{ color: darkMode ? "white" : "" }}>Work With This </span>
             <span>SKills and Tools</span>
             <span>We are developers  .We can create ✨ | As well as destroy   <br /> It does not mean that you are Creater 🔥<br />Ctrl + Code + Create.</span>
-            <a href="../../../public/RESUME.pdf" download><button className="button s-button">Hire Me</button></a>
+            <a href="" download="./RESUME.pdf"><button className="button s-button">Hire Me</button></a>
             <div className="blur s-blur1" style={{background:'#ABF1FF94'}}></div>
             <div className="blur s-blur" style={{background:"#ABF1FF94"}}></div>
         </div>
